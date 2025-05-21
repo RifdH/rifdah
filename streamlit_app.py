@@ -4,4 +4,4 @@ st.title("hai teman teman")
 st.write(
     "selamat datang"
 )
-st.image("
+st.image("IMG-20250509-WA0004.jpg")
