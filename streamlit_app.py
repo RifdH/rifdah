@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 ")
+st.title("selamat pergi di web ini")
 st.write(
     "Let's start building!."
 )
